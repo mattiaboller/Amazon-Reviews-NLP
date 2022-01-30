@@ -8,3 +8,5 @@ Keywords:
   - Word2Vec
   - Doc2Vec
   - Data visulization (Wordclouds, Scatter plots, Bar plots)
+  - 
+See the PDF report so more informations.
